@@ -1,0 +1,2 @@
+class ShoppingBasket < ApplicationRecord
+end
